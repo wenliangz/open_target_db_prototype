@@ -1,5 +1,6 @@
 for_submission/
-.ipynb
+*.ipynb
+docs/
 opentarget_arrays
 data/study-index/
 # Byte-compiled / optimized / DLL files
